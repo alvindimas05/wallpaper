@@ -20,3 +20,7 @@
     animation-duration:10s;
     animation-iteration-count:infinite;
 }
+.table-kategori th, td {
+    border:solid 1px;
+    border-collapse:collapse;
+}
